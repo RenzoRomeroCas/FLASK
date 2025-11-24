@@ -72,19 +72,17 @@ Pruebas usando Postman
 
 A continuación se muestran las imágenes de las pruebas realizadas en Postman, comprobando el correcto funcionamiento de cada método.
 
-Prueba GET
+
 ![GET](GET.jpg)
 
-Prueba POST
 ![POST](POST.jpg)
 
-Prueba PUT
+
 ![PUT](PUT.jpg)
 
-Prueba DELETE
 ![DELETE](DELTE.jpg)
 
-Prueba de error (PUT con ID inexistente)
+
 ![ERROR](ERROR.jpg)
 
 En esta prueba, se intentó actualizar un usuario con ID 99, el cual no existe.  
